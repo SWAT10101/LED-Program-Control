@@ -1,0 +1,10 @@
+C:\Users\S.W.A.T\source\repos\LED Color\LED Color\bin\Debug\LED Color.exe.config
+C:\Users\S.W.A.T\source\repos\LED Color\LED Color\bin\Debug\LED Color.exe
+C:\Users\S.W.A.T\source\repos\LED Color\LED Color\bin\Debug\LED Color.pdb
+C:\Users\S.W.A.T\source\repos\LED Color\LED Color\obj\Debug\LED_Color.Form1.resources
+C:\Users\S.W.A.T\source\repos\LED Color\LED Color\obj\Debug\LED_Color.Properties.Resources.resources
+C:\Users\S.W.A.T\source\repos\LED Color\LED Color\obj\Debug\LED Color.csproj.GenerateResource.Cache
+C:\Users\S.W.A.T\source\repos\LED Color\LED Color\obj\Debug\LED Color.csproj.CoreCompileInputs.cache
+C:\Users\S.W.A.T\source\repos\LED Color\LED Color\obj\Debug\LED Color.exe
+C:\Users\S.W.A.T\source\repos\LED Color\LED Color\obj\Debug\LED Color.pdb
+C:\Users\S.W.A.T\source\repos\LED Color\LED Color\obj\Debug\LED Color.csprojResolveAssemblyReference.cache
